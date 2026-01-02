@@ -2,47 +2,7 @@
 <html lang="uk">
 <head>
   <meta charset="UTF-8">
-  <title>ЗСУ | GTA Ukraine 02</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <style>
-    body {
-      margin: 0;
-      font-family: Arial, sans-serif;
-      background-color: #0b2d1c;
-      color: #ffffff;
-    }
-    header {
-      background: linear-gradient(90deg, #0057b7, #ffd700);
-      color: #000;
-      padding: 20px;
-      text-align: center;
-    }
-    section {
-      padding: 20px;
-      max-width: 900px;
-      margin: auto;
-    }
-    h2 {
-      color: #ffd700;
-    }
-    .card {
-      background-color: #123d2a;
-      padding: 15px;
-      margin: 15px 0;
-      border-radius: 8px;
-    }
-    footer {
-      background-color: #081f14;
-      text-align: center;
-      padding: 15px;
-      font-size: 14px;
-      color: #ccc;
-    }
-    a {
-      color: #ffd700;
-      text-decoration: none;
-    }
-  </style>
+ 
 </head>
 <body>
 
