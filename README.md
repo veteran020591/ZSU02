@@ -5,7 +5,7 @@
 ---
 
 ## 🔗 Посилання
-🌐 Сайт сервера: https://username.github.io  
+🌐 Сайт сервера: https://zsu02.github.io  
 🎮 Проєкт GTA Ukraine: https://gta-ukraine.com  
 
 > ⚠️ Замінити `username` на свій логін GitHub
